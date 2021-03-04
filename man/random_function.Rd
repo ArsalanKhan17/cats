@@ -6,6 +6,9 @@
 \usage{
 random_function()
 }
+\arguments{
+\item{none}{this function has no parameters}
+}
 \description{
 This function creates a tibble of standard normal values
 }

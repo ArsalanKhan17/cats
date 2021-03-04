@@ -1,7 +1,7 @@
 #' A Random Function
 #'
 #' This function creates a tibble of standard normal values
-#' @param none
+#' @param none this function has no parameters
 #' @keywords random normal
 #' @export
 #' @examples
